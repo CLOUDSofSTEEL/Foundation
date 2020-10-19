@@ -1,0 +1,54 @@
+{
+    "itemGroup.foundation.creative_tab": "Foundation",
+    
+    "item.foundation.copper_ingot": "Copper Ingot",
+    "item.foundation.tin_ingot": "Tin Ingot",
+    "item.foundation.bronze_ingot": "Bronze Ingot",
+    "item.foundation.silver_ingot": "Silver Ingot",
+    "item.foundation.aluminum_ingot": "Aluminum Ingot",
+
+    "item.foundation.copper_nugget": "Copper Nugget",
+    "item.foundation.tin_nugget": "Tin Nugget",
+    "item.foundation.bronze_nugget": "Bronze Nugget",
+    "item.foundation.silver_nugget": "Silver Nugget",
+    "item.foundation.aluminum_nugget": "Aluminum Nugget",
+
+    "item.foundation.copper_shovel": "Copper Shovel",
+    "item.foundation.tin_shovel": "Tin Shovel",
+    "item.foundation.bronze_shovel": "Bronze Shovel",
+    "item.foundation.silver_shovel": "Silver Shovel",
+    "item.foundation.aluminum_shovel": "Aluminum Shovel",
+
+    "item.foundation.copper_pickaxe": "Copper Pickaxe",
+    "item.foundation.tin_pickaxe": "Tin Pickaxe",
+    "item.foundation.bronze_pickaxe": "Bronze Pickaxe",
+    "item.foundation.silver_pickaxe": "Silver Pickaxe",
+    "item.foundation.aluminum_pickaxe": "Aluminum Pickaxe",
+    
+    "item.foundation.copper_axe": "Copper Axe",
+    "item.foundation.tin_axe": "Tin Axe",
+    "item.foundation.bronze_axe": "Bronze Axe",
+    "item.foundation.silver_axe": "Silver Axe",
+    "item.foundation.aluminum_axe": "Aluminum Axe",
+
+    "item.foundation.copper_hoe": "Copper Hoe",
+    "item.foundation.tin_hoe": "Tin Hoe",
+    "item.foundation.bronze_hoe": "Bronze Hoe",
+    "item.foundation.silver_hoe": "Silver Hoe",
+    "item.foundation.aluminum_hoe": "Aluminum Hoe",
+
+    "item.foundation.copper_sword": "Copper Sword",
+    "item.foundation.tin_sword": "Tin Sword",
+    "item.foundation.bronze_sword": "Bronze Sword",
+    "item.foundation.silver_sword": "Silver Sword",
+    "item.foundation.aluminum_sword": "Aluminum Sword",
+
+    "block.foundation.copper_ore": "Copper Ore",
+    "block.foundation.tin_ore": "Tin Ore",
+    "block.foundation.silver_ore": "Silver Ore",
+    "block.foundation.aluminum_ore": "Aluminum Ore"
+
+
+    
+
+}

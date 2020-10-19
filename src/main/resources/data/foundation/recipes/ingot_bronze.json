@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "III",
+      "III",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "foundation:bronze_nugget"
+      }
+    },
+    "result": {
+      "item": "foundation:bronze_ingot"
+    }
+  }

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": {"model": "foundation:block/tin_ore"}
+    }
+}

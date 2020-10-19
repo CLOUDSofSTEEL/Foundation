@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "pattern": [
+      "I  ",
+      "   ",
+      "   "
+    ],
+    "key": {
+      "I": {
+        "item": "foundation:copper_ingot"
+      }
+    },
+    "result": {
+      "item": "foundation:copper_nugget",
+      "count": "9"
+    }
+  }

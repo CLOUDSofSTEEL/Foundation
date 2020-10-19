@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foundation:copper_ingot"
+    },
+    {
+      "item": "foundation:copper_ingot"
+    },
+    {
+      "item": "foundation:copper_ingot"
+    },
+    {
+      "item": "foundation:tin_ingot"
+    }
+  ],
+  "result": {
+    "item": "foundation:bronze_ingot",
+    "count": 2
+  }
+}
